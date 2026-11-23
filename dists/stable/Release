@@ -1,0 +1,20 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 23 Nov 2026 00:23:17 +0000
+Description: OrkaLinux packages
+Label: OrkaLinux
+Origin: OrkaLinux
+Suite: stable
+MD5Sum:
+ a48c88e8faf07ec1146c8d79be11c583             1905 main/binary-amd64/Packages
+ e750335e25d2323e09d5959aa051d10b              867 main/binary-amd64/Packages.gz
+SHA1:
+ 48315b6dfb40b252871a4d84b45974d372655dfb             1905 main/binary-amd64/Packages
+ f88fe96e24851559d5f197049e2fa262443e69a0              867 main/binary-amd64/Packages.gz
+SHA256:
+ d11aaa04456e77a5bd3ea8336058a6ee8c08599714c156db5bd36bb9c0f07e63             1905 main/binary-amd64/Packages
+ 1f5c8d344edbc6c33004156d7a24aa731408ad22ce48f94f84c11f70328e82a4              867 main/binary-amd64/Packages.gz
+SHA512:
+ 092394daa43c0c2c654631a95d86848c69bc519cdef80f5fe6f6003cd4d0189cd5f3cfacdc4fd83ff23a0c0d1c122284edd18cf0b6a0a4d308b5f1884619c34c             1905 main/binary-amd64/Packages
+ adfd9862422702de4a5e2378a6b5c824cc097943bd522aae5701f222429fae88d91399b126691b9f26ea16b7cc3d519e44dd2505c501a60a62009364519171fa              867 main/binary-amd64/Packages.gz

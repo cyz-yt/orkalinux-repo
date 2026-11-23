@@ -1,0 +1,46 @@
+Package: orkalinux-archive-keyring
+Architecture: all
+Version: 3.0+202611230023
+Priority: optional
+Section: misc
+Maintainer: _inc0gnit0 <https://github.com/cyz-yt>
+Filename: pool/main/orkalinux-archive-keyring_3.0+202611230023_all.deb
+Size: 1992
+MD5sum: 01f83324a93b94a6c5b084df8eb4acd6
+SHA1: 76d124f309cb682be61437da1d9823c48be508da
+SHA256: 4ab90062f67bed4a6c3027be26b9626ca3af1ff3230b1e560cb3124e21173b36
+SHA512: 8a9b0061f28e2558e7d794fdcafe7a406cb4cf90bb7f7861c6cedc590e6bcf8f55eeadf55637ee36f7c7aa123cb52cf4fde7b38f9d0af2b031651dbf277f95df
+Homepage: https://github.com/cyz-yt/OrkaLinux
+Description: OrkaLinux repository key
+
+Package: orkalinux-base
+Architecture: all
+Version: 3.0+202611230023
+Priority: optional
+Section: misc
+Maintainer: _inc0gnit0 <https://github.com/cyz-yt>
+Depends: python3, python3-gi
+Filename: pool/main/orkalinux-base_3.0+202611230023_all.deb
+Size: 876196
+MD5sum: b8e77b05344b515fd64c9148332ede94
+SHA1: 31cdec0d0954e64bb166c7d46348bc52b192f31d
+SHA256: d55fb0739a1b9917fb4297537c0a1d177576772777e83365e6cc5bfefdb7075a
+SHA512: 2cad541571ba66e13a76e6e30fcb8790c9388934da892c80dae81ee73c5ffda51013d015dcb2a14a123fc0aebf5f94772831e131cef22bd81106f58a969d456a
+Homepage: https://github.com/cyz-yt/OrkaLinux
+Description: OrkaLinux apps, login screens and desktop look
+
+Package: orkalinux-wallpapers
+Architecture: all
+Version: 3.0+202611230023
+Priority: optional
+Section: misc
+Maintainer: _inc0gnit0 <https://github.com/cyz-yt>
+Filename: pool/main/orkalinux-wallpapers_3.0+202611230023_all.deb
+Size: 32060548
+MD5sum: 6c433fe8206efbe1f5a197d9624b477e
+SHA1: e4afaa3fd6e3b39d4ffb37a557f7b001df48ffc4
+SHA256: 8c8d9840076ed4c1bdb376fbaf87a549dfbf2bdd8db00b88cd09765dc37289fe
+SHA512: efd8ba210e70723dcb7bbafd7c18844a0a1f8749ec1d81829d2e19836de725600358670d7f196101d07ea12203e6bc5a943504d425c2b5b6c9e5277671e970db
+Homepage: https://github.com/cyz-yt/OrkaLinux
+Description: OrkaLinux wallpapers
+
