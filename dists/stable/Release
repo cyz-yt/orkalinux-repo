@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Mon, 23 Nov 2026 15:47:14 +0000
+Date: Mon, 23 Nov 2026 16:24:58 +0000
 Description: OrkaLinux packages
 Label: OrkaLinux
 Origin: OrkaLinux
 Suite: stable
 MD5Sum:
- 1494d833df00dc862e54b07d835db50d             1484 Release
- 4a2d2dd930c1fb603c733845b6f2859b             1905 main/binary-amd64/Packages
- 6902e76e7656a06cc27b8c54c6cad0dd              888 main/binary-amd64/Packages.gz
+ ad3cb2354e3050b625e55aba839f6c1a             1484 Release
+ 7f193aac408b9ffe162d06851a75c786             1905 main/binary-amd64/Packages
+ a93f874f44865c4b17fc45eec4f51873              883 main/binary-amd64/Packages.gz
 SHA1:
- 8f0adfd99a3e4c5c988a7a9dbd8d9e632591328a             1484 Release
- df676fa07477649d7e2a1e36d27d93e3ca0edb35             1905 main/binary-amd64/Packages
- 69f37499a04a1e042abe856f64bb0c84159fece6              888 main/binary-amd64/Packages.gz
+ 81fce6626edaeb779614d58cd136079abe2c5beb             1484 Release
+ 930ea0bd339868b314dcd70419879ef68332b7f3             1905 main/binary-amd64/Packages
+ 04327b0f72789391b7e2879d19fba16e654246c1              883 main/binary-amd64/Packages.gz
 SHA256:
- a3e4961c7b9dcdbce9b04dc3fdc78d400a292270e00bfb71e3dc75c60b55ef95             1484 Release
- 28a333aa0987ba0a82f59c90d8ffdbc987c7b32579664ea0dbc5e2311d9ce085             1905 main/binary-amd64/Packages
- be73f5bb84a7dc6f55beb865f621b9f7c3a56851434714583e065a8323cdb3f1              888 main/binary-amd64/Packages.gz
+ 0162a7705bdce0c42e4e01793a1d176bb754951a2a58fc7792b6c42a9afcaed5             1484 Release
+ d043dabb53a3e2acc1b0b2c0b08187aa81f6f901ca250da3278b5f785a090e99             1905 main/binary-amd64/Packages
+ 0fb6d400ec05ae4f601c8fbad248d253e0166a8e941367e1463b188fda974fcf              883 main/binary-amd64/Packages.gz
 SHA512:
- aa0c77871c097c6f573d51bb2346f21a6d7836410045c4339abb02eecb847e9160c4901e3754c4fbf19b85449229474296dcb882ca2388bbbe97628d5f4015e6             1484 Release
- 44a25a719ca7f85e542404ee504ff874b15e0bd44169733dae476c45057bfda43347bd7065180e6e7e2b8cb4f3b56f907dc909b03f57ccea1066f80ec3a0db17             1905 main/binary-amd64/Packages
- 6d6ef066409bd522d9c97e16217aa292a16f76d958b14ed0a22b2a22cbe32f77e23b0ce6d7aeb17da0df9394c75e75cf01286bd56332156debbad5d6469ae6dc              888 main/binary-amd64/Packages.gz
+ 2394e0171d0f1f19739d2e1969705b1e5a93b7f93cc27f919f27630c811aafed59d00499aaac35ee6eba77267b3696e0a7d936af963bea06be6eec7cb89e825a             1484 Release
+ c7169d13a1f5197520deefff89d4bb377cf5bd2ee7e7af3952d88c02bc23af8e2add7a966a8971577b231799bab32f6aebe8daa7455b39b0f2a44adf9c187a23             1905 main/binary-amd64/Packages
+ 285bedcd06c4665ed31e3e53d6f3e2ce941c5269ac4420ac65dd8e287f85383058ee41791db111f2cd8a7c98ce7d2b34cbab8b91dc2acaa21f98785dd006b819              883 main/binary-amd64/Packages.gz
