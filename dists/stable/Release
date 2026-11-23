@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Mon, 23 Nov 2026 00:26:18 +0000
+Date: Mon, 23 Nov 2026 00:28:51 +0000
 Description: OrkaLinux packages
 Label: OrkaLinux
 Origin: OrkaLinux
 Suite: stable
 MD5Sum:
- cfb0144cfc3eb5c3007d9d8ac6a5ba7c             1112 Release
+ d7e3ef2a96ce68c2af9ad2621087ae4d             1484 Release
  b18ca1cce65d7e3b896eeb141bf2eb92             1905 main/binary-amd64/Packages
  9262a9d39abcb9a396f31eb8bf86d3c8              878 main/binary-amd64/Packages.gz
 SHA1:
- e8cfcbb68e303c004ca425a32dd4b49716923971             1112 Release
+ 78562d8a56896b2875df2d11525468ab8d76d413             1484 Release
  ecd556b5215861d38b707c9aaa8ac06e4c2bb7bf             1905 main/binary-amd64/Packages
  7837fbdb8ed16cc81f34be7f06d98bb3e73d29a5              878 main/binary-amd64/Packages.gz
 SHA256:
- 0c4ca601c72a7a93187536ff4e6df1eb5ba91dd699cc8279956b145e95ab877b             1112 Release
+ 1239e732f1f23070149bdf05602f08aa5735cdf242ecb85547498e871602b465             1484 Release
  c873ce72035061afd54b91fcd4b6ff9dd18e8d294316d6cb7603dd86a78975ae             1905 main/binary-amd64/Packages
  60e92f616b41bbcc65701735ab62890458cd48828f08f87e7f940adc5ed48f6c              878 main/binary-amd64/Packages.gz
 SHA512:
- 1d3ed564fab7f8773fdd913450c8e4c0f456d6a5648e341dcbe129ddc58162eaf1a3497f6551d476d5d6c8449015d2f1b82e4ff0bf0dd52bd21882e04e910dfa             1112 Release
+ 8146279afd0c5b5b3b7ea6e1ee332fad3b6ceab70f3c29faff73170edcc9219fafe69a429ae5651803ed5db382cbee9382146c73ce2e9ba2ee80c0a55e3a04ce             1484 Release
  0d7624923d3c3f0b7e91a5013e571c1fe981ec3927549a01faba8d4aa3436d97ab550296a5268f54a087b055c970aeb62497a087f737bef3aefff92da52922dd             1905 main/binary-amd64/Packages
  7e45358e44fbaaaca23e1c995a9f819951027678d416dce4577b98f917879ef276ad4544685e7fa71469fcaee1b20d15073d40782b1f87cd021f71c171949f3f              878 main/binary-amd64/Packages.gz
