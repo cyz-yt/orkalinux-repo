@@ -1,0 +1,13 @@
+/* TEAM */
+Everything: _inc0gnit0
+Site: https://cyzs-retroweb.rf.gd/
+From: Poland
+
+/* THANKS */
+Debian, KDE, Calamares, live-build
+Every cat that sat on the keyboard
+
+/* SITE */
+Built with: bash, gpg, apt-ftparchive and a lot of stubbornness
+CSS: none, on purpose
+Orcas harmed: 0

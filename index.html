@@ -1,15 +1,91 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<html><head><title>Index of /orkalinux-repo/</title></head><body>
+<html><head><title>Index of /orkalinux-repo/</title>
+<meta name="generator" content="OrkaNote, honestly"></head><body>
+<!--
+                            ,
+                          __)\_
+                    (\_.-'    a`-.
+                    (/~~````(/~^^`
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Oh hi. You opened the page source. Good choice.
+
+   There is no CSS here on purpose. It is 2026 and this page
+   pretends it is 1998. It is not broken. It is vintage.
+
+   Secrets on this site, for the curious:
+     - something is hiding in a full stop
+     - old consoles had a code: up up down down...
+     - say my name (just type it)
+     - a server footer does not like being clicked
+     - /humans.txt and /robots.txt
+     - the browser console (F12)
+     - try a page that does not exist
+
+   made by _inc0gnit0 - https://cyzs-retroweb.rf.gd/
+-->
 <h1>Index of /orkalinux-repo/</h1>
 <p>Hello! You have found the OrkaLinux apt repository. It is not really a website -
 it is where OrkaLinux gets updates for its own apps, login screens and wallpapers.
-Your OrkaLinux already knows about it, so there is nothing to download here by hand.</p>
+Your OrkaLinux already knows about it, so there is nothing to download here by hand<a href="deep-end/">.</a></p>
 <p>Want to know more? See the <a href="https://github.com/cyz-yt/orkalinux-repo">README on GitHub</a>
 or get <a href="https://github.com/cyz-yt/OrkaLinux">OrkaLinux</a> itself.</p>
 <pre>Name                                                    Last modified      Size</pre><hr><pre>
-<a href="dists/">dists/                                                  </a>2026-11-23 00:23      -
-<a href="orkalinux-archive-keyring.asc">orkalinux-archive-keyring.asc                           </a>2026-11-23 00:28   1.7K
-<a href="orkalinux-archive-keyring.gpg">orkalinux-archive-keyring.gpg                           </a>2026-11-23 00:28   1.2K
-<a href="pool/">pool/                                                   </a>2026-11-23 00:23      -
+<a href="dists/">dists/                                                  </a>2026-11-23 00:34      -
+<a href="orkalinux-archive-keyring.asc">orkalinux-archive-keyring.asc                           </a>2026-11-23 00:34   1.7K
+<a href="orkalinux-archive-keyring.gpg">orkalinux-archive-keyring.gpg                           </a>2026-11-23 00:34   1.2K
+<a href="pool/">pool/                                                   </a>2026-11-23 00:34      -
 <a href="README.md">README.md                                               </a>2026-11-23 00:21   2.6K
-</pre><hr><address>OrkaLinux-apt/B3 (Undertow) Server at cyz-yt.github.io Port 443</address></body></html>
+</pre><hr>
+<address><span id="port" title="click me. no, really.">OrkaLinux-apt/B3 (Undertow) Server at cyz-yt.github.io Port 443</span></address>
+<p><small>by <a href="https://cyzs-retroweb.rf.gd/" title="Best viewed with Netscape Navigator 4.0 at 800x600">_inc0gnit0</a></small></p>
+<script>
+(function () {
+  console.log(
+    "         ,\n" +
+    "       __)\\_\n" +
+    " (\\_.-'    a`-.\n" +
+    " (/~~````(/~^^`\n\n" +
+    "Hi, fellow F12 user.\n" +
+    "There are a few secrets on this site. You just found one.\n" +
+    "Hint: old games had codes. So do orcas.");
+
+  var konami = ["ArrowUp", "ArrowUp", "ArrowDown", "ArrowDown", "ArrowLeft", "ArrowRight", "ArrowLeft", "ArrowRight", "b", "a"];
+  var keys = [], typed = "";
+  document.addEventListener("keydown", function (e) {
+    keys = keys.concat(e.key).slice(-konami.length);
+    if (keys.join(",") === konami.join(",")) {
+      keys = [];
+      document.body.innerHTML =
+        "<h1>+30 lives</h1>" +
+        "<pre>\n" +
+        "                 ,\n" +
+        "               __)\\_\n" +
+        "         (\\_.-'    a`-.\n" +
+        "         (/~~````(/~^^`\n" +
+        "  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n" +
+        "</pre>" +
+        "<p>Just kidding. Debian only gives you one life, so keep backups (Kopia zapasowa OrkaLinux).</p>" +
+        "<p><a href=\"" + location.pathname + "\">Swim back</a></p>";
+    }
+    if (e.key && e.key.length === 1) {
+      typed = (typed + e.key.toLowerCase()).slice(-4);
+      if (typed === "orka") {
+        alert("Fun fact: orcas are not whales. They are the biggest dolphins.\nOrkaLinux is not a whale either. It is about 3 GB.");
+        typed = "";
+      }
+    }
+  });
+
+  var port = document.getElementById("port"), clicks = 0;
+  if (port) {
+    port.addEventListener("click", function () {
+      clicks++;
+      if (clicks === 5) {
+        port.innerHTML = "OrkaLinux-apt/B3 (Undertow) Server at cyz-yt.github.io Port 1337";
+        port.title = "ok, you win";
+      }
+    });
+  }
+})();
+</script></body></html>
