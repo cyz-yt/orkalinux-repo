@@ -4,36 +4,40 @@ Hash: SHA512
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Mon, 23 Nov 2026 00:23:17 +0000
+Date: Mon, 23 Nov 2026 00:26:18 +0000
 Description: OrkaLinux packages
 Label: OrkaLinux
 Origin: OrkaLinux
 Suite: stable
 MD5Sum:
- a48c88e8faf07ec1146c8d79be11c583             1905 main/binary-amd64/Packages
- e750335e25d2323e09d5959aa051d10b              867 main/binary-amd64/Packages.gz
+ cfb0144cfc3eb5c3007d9d8ac6a5ba7c             1112 Release
+ b18ca1cce65d7e3b896eeb141bf2eb92             1905 main/binary-amd64/Packages
+ 9262a9d39abcb9a396f31eb8bf86d3c8              878 main/binary-amd64/Packages.gz
 SHA1:
- 48315b6dfb40b252871a4d84b45974d372655dfb             1905 main/binary-amd64/Packages
- f88fe96e24851559d5f197049e2fa262443e69a0              867 main/binary-amd64/Packages.gz
+ e8cfcbb68e303c004ca425a32dd4b49716923971             1112 Release
+ ecd556b5215861d38b707c9aaa8ac06e4c2bb7bf             1905 main/binary-amd64/Packages
+ 7837fbdb8ed16cc81f34be7f06d98bb3e73d29a5              878 main/binary-amd64/Packages.gz
 SHA256:
- d11aaa04456e77a5bd3ea8336058a6ee8c08599714c156db5bd36bb9c0f07e63             1905 main/binary-amd64/Packages
- 1f5c8d344edbc6c33004156d7a24aa731408ad22ce48f94f84c11f70328e82a4              867 main/binary-amd64/Packages.gz
+ 0c4ca601c72a7a93187536ff4e6df1eb5ba91dd699cc8279956b145e95ab877b             1112 Release
+ c873ce72035061afd54b91fcd4b6ff9dd18e8d294316d6cb7603dd86a78975ae             1905 main/binary-amd64/Packages
+ 60e92f616b41bbcc65701735ab62890458cd48828f08f87e7f940adc5ed48f6c              878 main/binary-amd64/Packages.gz
 SHA512:
- 092394daa43c0c2c654631a95d86848c69bc519cdef80f5fe6f6003cd4d0189cd5f3cfacdc4fd83ff23a0c0d1c122284edd18cf0b6a0a4d308b5f1884619c34c             1905 main/binary-amd64/Packages
- adfd9862422702de4a5e2378a6b5c824cc097943bd522aae5701f222429fae88d91399b126691b9f26ea16b7cc3d519e44dd2505c501a60a62009364519171fa              867 main/binary-amd64/Packages.gz
+ 1d3ed564fab7f8773fdd913450c8e4c0f456d6a5648e341dcbe129ddc58162eaf1a3497f6551d476d5d6c8449015d2f1b82e4ff0bf0dd52bd21882e04e910dfa             1112 Release
+ 0d7624923d3c3f0b7e91a5013e571c1fe981ec3927549a01faba8d4aa3436d97ab550296a5268f54a087b055c970aeb62497a087f737bef3aefff92da52922dd             1905 main/binary-amd64/Packages
+ 7e45358e44fbaaaca23e1c995a9f819951027678d416dce4577b98f917879ef276ad4544685e7fa71469fcaee1b20d15073d40782b1f87cd021f71c171949f3f              878 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEK0DCCHrFkZx0yX4x316rOhDQh/8FAmsDh3UACgkQ316rOhDQ
-h/+BjQ/9E0TAAPNuDAxilA9KjpiBs1C/ohVT1W1PDSF8SPdUMDpFvXHzDmyq/Nrv
-q54kPsDgCLGOclOzJd+kjnl93pqUh1MT+uO60OooI/3TBt3sDS9alRyMubX/pfa9
-cHMCdLc9YiTvI2deRVINM/SM6vlwMhBRycBpSWC6H0JZLSwyT2TybWkSxXwECh71
-E1rPaWGMo/nOpf1UV6bA2L8Po/okqE/Zb8R710mdvkVtiN/y55vToPHhXfwJ6HL5
-3qq/+tPE0bTkPIbctbdpawvjRgPhegFJwOKA/vHkItp1HkIW7tJFJstylH5+eJ9V
-JHPiILp/Y4AeSCxB7NbuTcIznTCbNd+RXnmzhKJhGJSiEBO9B8e6zp9Df0ZdXriU
-uxZ/dLXQcDpeD+PtDF/c2FwLRedCAMd06NYGADY1yB8Ps4H/4KGXzGP+8ndNzdt3
-LGIVybgeoU25lm6oGv+Qxb9/9aT1/p63uhSzuxyTZ57KmxlkK4vNRpZ4LciIEOby
-6bXhpriVNNU7+GLXS71gyWx17b2saKgy3Jc8EcfsrikGmS49J+AiSRGhJ+rfgGDu
-6dtkCeuStLaw6JTzp9uBZCyqofgWj7M311w1vPo8Ysz7FIWeao0WDkPXLwLhOQZJ
-NmuIj9MeQWh6AxE6GXeAv108NlxwyXvLlLunJB5otifLXKxEDGY=
-=6Fy9
+iQIzBAEBCgAdFiEEK0DCCHrFkZx0yX4x316rOhDQh/8FAmsDiCoACgkQ316rOhDQ
+h/+4lg//TS3XkCipDjWzNrLxpiAlKdA2gE5sYzNQSmAnALJ7mowuiDhIdbTF11CC
+jELoqZopq+oO1HwbcIbqn3BOcj/hbfOP0Wt4JQ7Z+33jJBk5XQHrcra9pbanDd9M
+9yN0O3oARP43nYmSA+gHBbpGSGU33U+VvRi65DSSZ8R5IWsLpUz1RX/ondhNvkIe
+4uAzhDaiCR9rIdUHMHEE7NhldBAyJshXnWjBVbn+fsLTvxn7NAXAhYG14flcMg4k
+UB2nQjB8qOeHtmRAtuAgA6Hs5TQ+nH/U6v7RDfv37GOFCHXApglWpQkjUAuaZRUj
+RNuN0I53XF2sURI/v7LFgbC8fWFbtkuvwFglX/s7RztCo2kzEB7dErumSkVLtmuJ
+KGdZj52adEHIVAoIfR8CZD69tJfZGxGFXjk0rvRmYlZHDNtSEsHtOw6mHUB9xSHK
+lCKRYaklueNlKcA2CBwKsY6VtasYA5c+/Ru3x2gJSFnUrYRpK/l/DSlbYgODPLkn
+9ce3NOfknC9SMTwW4Eyqb8v69ES4IW/Nd4Sizlq023JGO+QXDACpS7kHNrBSO51L
+fnNJ1erlmGwx2nzWwDUE7NVtaSJnPhzznlXf2fuSjgsELJLHVmaz1P2NFurErw/w
+vq+YIeCvAHYy/mLb+ZMTAD/HsgoOqXZx0EEe27/ErEhoE+M51I8=
+=ZvkT
 -----END PGP SIGNATURE-----

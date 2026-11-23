@@ -15,32 +15,32 @@ Description: OrkaLinux repository key
 
 Package: orkalinux-base
 Architecture: all
-Version: 3.0+202611230023
+Version: 3.0+202611230026
 Priority: optional
 Section: misc
 Maintainer: _inc0gnit0 <https://github.com/cyz-yt>
 Depends: python3, python3-gi
-Filename: pool/main/orkalinux-base_3.0+202611230023_all.deb
-Size: 876196
-MD5sum: b8e77b05344b515fd64c9148332ede94
-SHA1: 31cdec0d0954e64bb166c7d46348bc52b192f31d
-SHA256: d55fb0739a1b9917fb4297537c0a1d177576772777e83365e6cc5bfefdb7075a
-SHA512: 2cad541571ba66e13a76e6e30fcb8790c9388934da892c80dae81ee73c5ffda51013d015dcb2a14a123fc0aebf5f94772831e131cef22bd81106f58a969d456a
+Filename: pool/main/orkalinux-base_3.0+202611230026_all.deb
+Size: 870960
+MD5sum: bba6ac55bacab6325e74664a46d86086
+SHA1: cc04a746852d5c6be6ffa06a4c4a71815d761e50
+SHA256: 55c30bfc0bbd7a9e0bd7b8adeec777e074f1af84e136951614734dddd0a9daf7
+SHA512: 10a74c801d599d46453f69a62176a8c88da217abd9b50f520611ee399badaedaef362cd4f315bccee9aec066069993d2b4f6af12e3aaf3b53f4c6e4d3433b29b
 Homepage: https://github.com/cyz-yt/OrkaLinux
 Description: OrkaLinux apps, login screens and desktop look
 
 Package: orkalinux-wallpapers
 Architecture: all
-Version: 3.0+202611230023
+Version: 3.0+202611230026
 Priority: optional
 Section: misc
 Maintainer: _inc0gnit0 <https://github.com/cyz-yt>
-Filename: pool/main/orkalinux-wallpapers_3.0+202611230023_all.deb
-Size: 32060548
-MD5sum: 6c433fe8206efbe1f5a197d9624b477e
-SHA1: e4afaa3fd6e3b39d4ffb37a557f7b001df48ffc4
-SHA256: 8c8d9840076ed4c1bdb376fbaf87a549dfbf2bdd8db00b88cd09765dc37289fe
-SHA512: efd8ba210e70723dcb7bbafd7c18844a0a1f8749ec1d81829d2e19836de725600358670d7f196101d07ea12203e6bc5a943504d425c2b5b6c9e5277671e970db
+Filename: pool/main/orkalinux-wallpapers_3.0+202611230026_all.deb
+Size: 32060052
+MD5sum: 2eaf83b23942d612fb89fc99ca3929b3
+SHA1: cd0d906ec6cb13f72392548b291a6c195181db06
+SHA256: ba382dac47c6d6a02c4a7aff24143680d725d2f9d8d3e1d0b8bcb7d781398c0a
+SHA512: 6e146d93a7827751682111c7224dfa63c5c48a76dc0d5e23824fd9e38f0aec57fb83fe835649f9eeeb7a441caab7573abbb9769fa073c9a335db077950dcfe40
 Homepage: https://github.com/cyz-yt/OrkaLinux
 Description: OrkaLinux wallpapers
 
