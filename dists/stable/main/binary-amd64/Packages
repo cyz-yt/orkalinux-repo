@@ -15,17 +15,17 @@ Description: OrkaLinux repository key
 
 Package: orkalinux-base
 Architecture: all
-Version: 3.0+202611232004
+Version: 3.0+202611272115
 Priority: optional
 Section: misc
 Maintainer: _inc0gnit0 <https://github.com/cyz-yt>
 Depends: python3, python3-gi
-Filename: pool/main/orkalinux-base_3.0+202611232004_all.deb
-Size: 897668
-MD5sum: dabd139daef4c2be7183d7830ac293b1
-SHA1: ab11447d437d674a2206acb63ba1529abc0c0c94
-SHA256: 7338da20fdfb0e91053d342af0630b04a127109890c338dacbcf634817c96224
-SHA512: 77798ddb3db4d3df3dbcb3e830916b1fd1aecca34ef1b545f40b648da30eaced7627b66f097781cf98f5a0961f1534c4ae273c1e6dbd1c401fdeb851f3aa0a18
+Filename: pool/main/orkalinux-base_3.0+202611272115_all.deb
+Size: 897672
+MD5sum: a67742ab9475189962e4d482167a7874
+SHA1: e99217ef7f1522279418462ae40abf3aa7777b27
+SHA256: 6b34ad1b94537b049259f40a719ab7ba9a842b26cb3de75c469950e2a1f8dc32
+SHA512: 5ad02e110c547f21cab00133f2630a6242304d7b941bee457e4182863814f0307b455bc522088a513feaaf44d26431542afdb5a6db98c002312c70241c1708b3
 Homepage: https://github.com/cyz-yt/OrkaLinux
 Description: OrkaLinux apps, login screens and desktop look
 
